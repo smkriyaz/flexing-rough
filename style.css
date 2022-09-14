@@ -1,0 +1,30 @@
+.riyaz{
+    display:flex;
+    
+}
+.smk{
+    margin:2px;
+    width:400px;
+    height:300px;
+    background-color: aqua;
+}
+.jk{
+    width:600px;
+    height:300px ;
+   
+}
+.zx{
+    height: 3000px ;
+}
+.nasreen{
+    display: flex;
+}
+.po{
+    margin:2px;
+    width:400px;
+    height:300px;
+    background-color:black;
+    margin-top:-2700px;
+    position: static;
+}
+
